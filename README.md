@@ -39,7 +39,7 @@
 <br>
 
 - 연구검색 시스템 일산병원 i-DEA 2.0, 서울대병원 본원 SUPREME 2.0
-백엔드 메인(리드) 개발(2022.02 ~ 2023.07)
+백엔드 메인(리드) 개발(2022.02 ~)
 
     [주 사용기술] SpringBoot, Spring Batch, JUnit5, react, vertica, sybase IQ, docker, jupyter hub, elasticsearch, watson discovery, nginx
 
