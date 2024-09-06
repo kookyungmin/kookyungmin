@@ -43,7 +43,7 @@
 
     [주 사용기술] SpringBoot, Spring Batch, JUnit5, react, vertica, sybase IQ, docker, jupyter hub, elasticsearch, watson discovery, nginx
 
-    [운영 병원] 서울대병원, 국민건강보험 일산병원, 국립병원, 강원대병원, 교통재활병원, 원주 세브란스병원  
+    [운영 병원] 서울대병원, 국민건강보험 일산병원, 국립병원, 강원대병원, 교통재활병원
 
 <br>
 
