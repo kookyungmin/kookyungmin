@@ -41,6 +41,7 @@ DECENT (범국가 분산형 임상시험 기반 마련을 위한 원격모니터
 - 3개 CRO사와 FHIR API 기반 연동으로 eCRF 자동화 구축, 성공 사례 심포지엄 주관·발표 및 표준 연계 가이드 정립
 
 주요 기술: Spring Boot, Spring Batch, JUnit 5, React, PostgreSQL, Docker, HAPI FHIR
+
 운영 기관: 서울대병원, 충북대병원, 충남대병원, 전남대병원, 가천대 길병원, 동국대 일산병원, 분당차병원
 
 <br>
