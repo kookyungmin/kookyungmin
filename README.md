@@ -71,7 +71,7 @@
 
 ---
 
-### 인디플렉스 [개발팀장] | 2018.12 ~ 2020.09
+### 인디플렉스 [Co-Founder, 개발팀장] | 2018.12 ~ 2020.09
 
 - **BerryService 서버리스 플랫폼** 백엔드 및 프론트엔드 개발 | 2020.01 ~ 2020.09  
   주요 기술: Node.js, Ember.js, Vue.js, Elasticsearch, MySQL, Redis, Nginx, PWA, Docker
