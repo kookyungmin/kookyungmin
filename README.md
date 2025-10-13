@@ -63,18 +63,23 @@ SUPREME 2.0(서울대병원 연구검색), IDEA 2.0 고도화(일산병원 연�
 <br>
 
 데이터 포털(NCDC, SHINE) 백엔드 및 프론트엔드 개발(2021.11 ~ 2022.01)
+
 [주 사용기술] SpringBoot, react, postgresql, jenkins, nginx
 
 <br>
 
 연구검색 시스템 ResearchEx 2.5 백엔드 및 프론트엔드 개발 및 운영(2021.04 ~ 2023.01)
+
 [주 사용기술] Spring, angular, mssql, oracle, apache, tomcat, jenkins, docker, jmeter
+
 [유지보수] 계명대병원, 가천길병원, 동국대 일산병원, 국민건강보험 일산병원, 제주대병원, 충북대병원, 전남대병원, 충남대병원, 분당차병원, 성마리안나 병원
 
 <br>
 
 서울대병원 본원 연구검색 시스템 SUPREME, SYAPSE 운영 및 개발, DW ETL 관리(2020.10 ~ 2021.04)
+
 [주 사용기술] 전자정부프레임워크(Spring), angular, oracle, pentaho(ETL), apache, tomcat, .NET(C#), AWS
+
 운영 기관: 서울대병원, 국민건강보험 일산병원, 국립병원, 강원대병원, 교통재활병원, 순천향대병원, 국립암센터, 분당차병원
 
 
