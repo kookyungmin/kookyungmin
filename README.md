@@ -41,8 +41,7 @@
 
 - 주요 기술: Spring Boot, Spring Batch, JUnit 5, React, PostgreSQL, Docker, HAPI FHIR  
 - 운영 기관: 서울대병원, 충북대병원, 충남대병원, 전남대병원, 가천대 길병원, 동국대 일산병원, 분당차병원
-
----
+  
 
 #### SUPREME 2.0, IDEA 2.0 고도화, Deview(가명화 의무기록 뷰어) | 2022.02 ~ 2025.02
 - 역할: 연구검색/가명화 뷰어 전체 아키텍처 설계 및 리드 개발, 서버 운영 총괄
@@ -56,7 +55,6 @@
 
 - 주요 기술: Spring Boot, Spring Batch, JUnit 5, React, Vertica, Sybase IQ, Docker, JupyterHub, Elasticsearch, Watson Discovery, Nginx
 
----
 
 #### 데이터 포털(NCDC, SHINE) 백엔드 및 프론트엔드 개발 | 2021.11 ~ 2022.01
 - 주요 기술: Spring Boot, React, PostgreSQL, Jenkins, Nginx
@@ -73,20 +71,20 @@
 
 ### 인디플렉스 [Co-Founder, 개발팀장] | 2018.12 ~ 2020.09
 
-- **BerryService 서버리스 플랫폼** 백엔드 및 프론트엔드 개발 | 2020.01 ~ 2020.09  
-  주요 기술: Node.js, Ember.js, Vue.js, Elasticsearch, MySQL, Redis, Nginx, PWA, Docker
+#### BerryService 서버리스 플랫폼 백엔드 및 프론트엔드 개발 | 2020.01 ~ 2020.09  
+- 주요 기술: Node.js, Ember.js, Vue.js, Elasticsearch, MySQL, Redis, Nginx, PWA, Docker
 
-- **CalleeOrder (보이는 ARS 주문 시스템)** 백엔드 및 프론트엔드 개발 | 2020.06 ~ 2020.09  
-  주요 기술: Node.js, Ember.js, MySQL, Redis, Nginx, PWA
+#### CalleeOrder (보이는 ARS 주문 시스템) 백엔드 및 프론트엔드 개발 | 2020.06 ~ 2020.09  
+- 주요 기술: Node.js, Ember.js, MySQL, Redis, Nginx, PWA
 
-- **Callee KI-PASS (보이는 ARS 전자 출입 명부)** 백엔드 및 프론트엔드 개발 | 2020.07  
-  주요 기술: Node.js, Ember.js, MySQL, Redis, Nginx, PWA
+#### Callee KI-PASS (보이는 ARS 전자 출입 명부) 백엔드 및 프론트엔드 개발 | 2020.07  
+- 주요 기술: Node.js, Ember.js, MySQL, Redis, Nginx, PWA
 
-- **LMS (대부 전산 시스템)** 백엔드 및 프론트엔드 개발 | 2019.10 ~ 2019.12  
-  주요 기술: Node.js, Ember.js, MySQL, Nginx
+#### LMS (대부 전산 시스템) 백엔드 및 프론트엔드 개발 | 2019.10 ~ 2019.12  
+- 주요 기술: Node.js, Ember.js, MySQL, Nginx
 
-- **Styx (실시간 모니터링, 음악 콘텐츠 인식 및 저작권 분석 솔루션)** | 2019.05 ~ 2019.10  
-  주요 기술: Node.js, Ember.js, Flask, TensorFlow, Keras, Librosa, SciPy, FFmpeg, Apache, MySQL, Redis
+#### Styx (실시간 모니터링, 음악 콘텐츠 인식 및 저작권 분석 솔루션) | 2019.05 ~ 2019.10  
+- 주요 기술: Node.js, Ember.js, Flask, TensorFlow, Keras, Librosa, SciPy, FFmpeg, Apache, MySQL, Redis
 
-- **Amessenger (그룹웨어 메신저)** 백엔드 및 프론트엔드 개발 | 2018.12 ~ 2019.04  
-  주요 기술: Node.js, Ember.js, Electron.js, Apache, MySQL, Redis
+#### Amessenger (그룹웨어 메신저) 백엔드 및 프론트엔드 개발 | 2018.12 ~ 2019.04  
+- 주요 기술: Node.js, Ember.js, Electron.js, Apache, MySQL, Redis
