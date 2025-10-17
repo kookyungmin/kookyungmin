@@ -50,7 +50,7 @@
   - 동적 쿼리 빌더 설계·구현, 비동기 Job Queue 관리
   - Elasticsearch 기반 Free-text 검색 및 Watson Discovery 연계
   - TDD 문화 정착 및 JUnit 5 기반 테스트 전략 수립
-  - 일 평균 사용자 20 ~ 30명, 1명 당 데이터 건수 100만~10억 건 처리
+  - 일 평균 사용자 20 ~ 30명, 1명 당 데이터 건수 100만 ~ 10억 건 수준의 대용량 데이터 처리
   - SUPREME 운영위원회 발표 및 병원별 교수 대상 사용자 교육
 
 - 주요 기술: Spring Boot, Spring Batch, JUnit 5, React, Vertica, Sybase IQ, Docker, JupyterHub, Elasticsearch, Watson Discovery, Nginx
