@@ -54,6 +54,7 @@
   - SUPREME 운영위원회 발표 및 병원별 교수 대상 사용자 교육
 
 - 주요 기술: Spring Boot, Spring Batch, JUnit 5, React, Vertica, Sybase IQ, Docker, JupyterHub, Elasticsearch, Watson Discovery, Nginx
+- 운영 기관: 서울대병원, 국민건강보험 일산병원, 분당 차병원, 강원대병원, 교통재활병원, 국립병원, 국립 암센터, 순천향대병원
 
 
 #### 데이터 포털(NCDC, SHINE) 백엔드 및 프론트엔드 개발 | 2021.11 ~ 2022.01
