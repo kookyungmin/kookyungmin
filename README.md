@@ -47,13 +47,14 @@
 - 역할: 연구검색/가명화 뷰어 전체 아키텍처 설계 및 리드 개발, 서버 운영 총괄
 - 핵심 성과:
   - HIS → CDW 파이프라인 운영 및 이종 DW 연계 안정화
+  - 비즈니스 기능 별로 서비스 분리하여 MSA 구성 후 이벤트 기반 통신 설계
   - 동적 쿼리 빌더 설계·구현, 비동기 Job Queue 관리
   - Elasticsearch 기반 Free-text 검색 및 Watson Discovery 연계
   - TDD 문화 정착 및 JUnit 5 기반 테스트 전략 수립
   - 일 평균 사용자 20 ~ 30명, 1명 당 데이터 건수 100만 ~ 10억 건 수준의 대용량 데이터 처리
   - SUPREME 운영위원회 발표 및 병원별 교수 대상 사용자 교육
 
-- 주요 기술: Spring Boot, Spring Batch, JUnit 5, React, Vertica, Sybase IQ, Docker, JupyterHub, Elasticsearch, Watson Discovery, Nginx
+- 주요 기술: Spring Boot, Spring Batch, JUnit 5, React, Vertica, Sybase IQ, Docker, JupyterHub, Elasticsearch, Kafka, Watson Discovery, Nginx
 - 운영 기관: 서울대병원, 국민건강보험 일산병원, 분당 차병원, 강원대병원, 교통재활병원, 국립병원, 국립 암센터, 순천향대병원
 
 
