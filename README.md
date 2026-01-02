@@ -54,7 +54,7 @@
   - 일 평균 사용자 20 ~ 30명, 1명 당 데이터 건수 100만 ~ 10억 건 수준의 대용량 데이터 처리
   - SUPREME 운영위원회 발표 및 병원별 교수 대상 사용자 교육
 
-- 주요 기술: Spring Boot, Spring Batch, JUnit 5, React, Vertica, Sybase IQ, Docker, JupyterHub, Elasticsearch, Kafka, Watson Discovery, Nginx
+- 주요 기술: Spring Boot, Spring Batch, JUnit 5, React, Vertica, Sybase IQ, Docker, JupyterHub, Elasticsearch, Kafka, k8s, Watson Discovery, Nginx
 - 운영 기관: 서울대병원, 국민건강보험 일산병원, 국립병원, 강원대병원, 교통재활병원, 순천향대병원, 국립암센터, 분당차병원
 
 
