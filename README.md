@@ -47,7 +47,7 @@
 - 역할: 연구검색/가명화 뷰어 전체 아키텍처 설계 및 리드 개발, 서버 운영 총괄
 - 핵심 성과:
   - HIS → CDW 파이프라인 운영 및 이종 DW 연계 안정화
-  - 비즈니스 기능 별로 MSA 구성 후 Kafka 기반 이벤트 통신 설계
+  - 비즈니스 기능 별로 MSA 구성 후 Kafka 기반 이벤트 통신 설계 (연구검색, 가명화, IDP, 비동기 JOB, 검색엔진, 레지스트리, 배치, 병리 파싱, 데이터 분석환경 등)
   - 동적 쿼리 빌더 설계·구현, 비동기 Job Queue 관리
   - Elasticsearch 기반 Free-text 검색 및 Watson Discovery 연계
   - TDD 문화 정착 및 JUnit 5 기반 테스트 전략 수립
@@ -55,7 +55,7 @@
   - SUPREME 운영위원회 발표 및 병원별 교수 대상 사용자 교육
 
 - 주요 기술: Spring Boot, Spring Batch, JUnit 5, React, Vertica, Sybase IQ, Docker, JupyterHub, Elasticsearch, Kafka, Watson Discovery, Nginx
-- 운영 기관: 서울대병원, 국민건강보험 일산병원, 분당 차병원, 강원대병원, 교통재활병원, 국립병원, 국립 암센터, 순천향대병원
+- 운영 기관: 서울대병원, 국민건강보험 일산병원, 국립병원, 강원대병원, 교통재활병원, 순천향대병원, 국립암센터, 분당차병원
 
 
 #### 데이터 포털(NCDC, SHINE) 백엔드 및 프론트엔드 개발 | 2021.11 ~ 2022.01
@@ -67,7 +67,6 @@
 
 #### 서울대병원 본원 연구검색 시스템 SUPREME, SYAPSE 운영 및 개발, DW ETL 관리 | 2020.10 ~ 2021.04
 - 주요 기술: 전자정부프레임워크(Spring), Angular, Oracle, Pentaho(ETL), Apache, Tomcat, .NET(C#), AWS  
-- 운영 기관: 서울대병원, 국민건강보험 일산병원, 국립병원, 강원대병원, 교통재활병원, 순천향대병원, 국립암센터, 분당차병원
 
 ---
 
